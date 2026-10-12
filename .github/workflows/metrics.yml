@@ -26,7 +26,6 @@ jobs:
           committer_message: "Update GitHub Metrics"
 
           config_timezone: Asia/Manila
-          config_theme: github_dark
 
           base: header, activity, community, repositories, metadata
 
