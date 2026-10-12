@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**userkent/userkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Kent John 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Information Technology Student | Aspiring Developer
+
+*Learning, building, and exploring the world of technology.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=userkent&color=238636&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="./metrics.svg" alt="GitHub Metrics Dashboard" width="100%">
+
+</div>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+Check out my repositories:
+
+- 💻 [My GitHub Repositories](https://github.com/userkent?tab=repositories)
+- 🌱 Learning new technologies and improving my coding skills.
+
+---
+
+<div align="center">
+
+### 💚 Thanks for visiting my profile!
+
+*Keep learning. Keep building. Keep improving.*
+
+</div>
