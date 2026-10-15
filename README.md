@@ -7,17 +7,13 @@
 
 *Learning, building, and exploring the world of technology.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=userkent&color=238636&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
-
----
 
 ## 📊 GitHub Metrics
 
 <div align="center">
 
-<img src="./metrics.svg" alt="GitHub Metrics Dashboard" width="100%">
+<img src="./metrics.svg" alt="GitHub Metrics Dashboard" width="50%">
 
 </div>
 
