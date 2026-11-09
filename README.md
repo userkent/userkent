@@ -9,16 +9,6 @@
 
 </div>
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="./metrics.svg" alt="GitHub Metrics Dashboard" width="50%">
-
-</div>
-
----
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
