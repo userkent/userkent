@@ -23,7 +23,7 @@
 
 Check out my Portfolio:
 
-- 💻 [My GitHub Repo](https://github.com/userkent/KENT-JOHN-PORTFOLIO)
+- 💻 [My Portfolio](https://github.com/userkent/KENT-JOHN-PORTFOLIO)
 - 🌱 Learning new technologies and improving my coding skills.
 
 ---
