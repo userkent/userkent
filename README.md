@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Kent John 👋
+# Hi, Fellow Devs 👋
 
 ### 💻 Information Technology Student | Aspiring Developer
 
@@ -21,9 +21,9 @@
 
 ## 🚀 Featured Projects
 
-Check out my repositories:
+Check out my Portfolio:
 
-- 💻 [My GitHub Repositories](https://github.com/userkent?tab=repositories)
+- 💻 [My GitHub Repo](https://github.com/userkent/KENT-JOHN-PORTFOLIO)
 - 🌱 Learning new technologies and improving my coding skills.
 
 ---
